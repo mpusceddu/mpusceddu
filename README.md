@@ -55,7 +55,7 @@
 </td>
 <td width="50%" valign="top">
 <p align="center">
-<a href="https://marcopusceddu.de/"><img src="https://raw.githubusercontent.com/mpusceddu/marcopusceddu.de/main/assets/images/og.jpg" alt="Vorschau der persönlichen Website von Marco Pusceddu" width="100%"></a>
+<a href="https://marcopusceddu.de/"><img src="https://raw.githubusercontent.com/mpusceddu/marcopusceddu.de/main/assets/images/github-website-card-rounded.png" alt="Vorschau der persönlichen Website von Marco Pusceddu" width="100%"></a>
 </p>
 <h3 align="center">marcopusceddu.de</h3>
 <p>Meine persönliche Website mit Informationen zu meinem beruflichen Hintergrund, meinem kommunalpolitischen Engagement und direkten Kontaktmöglichkeiten.</p>

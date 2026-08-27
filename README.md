@@ -42,28 +42,46 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<p align="center">
-<a href="https://github.com/mpusceddu/dorfflohmarkt-urbar"><img src="https://raw.githubusercontent.com/mpusceddu/dorfflohmarkt-urbar/main/docs/project-banner.svg" alt="Dorfflohmarkt Urbar 2026" width="100%"></a>
-</p>
-<h3 align="center">Dorfflohmarkt Urbar 2026</h3>
-<p>Interaktive und mobil nutzbare Karte für die teilnehmenden Flohmarktstände in Urbar. Ein schlankes digitales Bürgerprojekt ohne App, Benutzerkonto oder komplizierte Bedienung.</p>
-<p><strong>Technik:</strong> HTML, CSS, JavaScript, Leaflet, OpenStreetMap und GitHub Pages.</p>
-<p align="center">
-<a href="https://mpusceddu.github.io/dorfflohmarkt-urbar/"><img src="https://img.shields.io/badge/Live--Karte-%C3%B6ffnen-173f34?style=flat-square" alt="Live-Karte öffnen"></a>
-<a href="https://github.com/mpusceddu/dorfflohmarkt-urbar"><img src="https://img.shields.io/badge/Quellcode-ansehen-65736e?style=flat-square" alt="Quellcode ansehen"></a>
-</p>
+<div align="center">
+<a href="https://github.com/mpusceddu/dorfflohmarkt-urbar"><img src="https://raw.githubusercontent.com/mpusceddu/dorfflohmarkt-urbar/main/docs/project-banner.svg" alt="Dorfflohmarkt Urbar 2026" width="390" height="201"></a>
+<h3>Dorfflohmarkt Urbar 2026</h3>
+</div>
+<div align="left">
+Interaktive Karte für die Flohmarktstände in Urbar.<br>
+Mobil nutzbar, ohne App oder Benutzerkonto.<br>
+Einfach öffnen, Stand finden und losstöbern.
+</div>
+<br>
+<div align="left">
+<strong>Technik:</strong> HTML, CSS, JavaScript und Leaflet,<br>
+OpenStreetMap sowie GitHub Pages.
+</div>
+<br><br>
+<div align="center">
+<a href="https://mpusceddu.github.io/dorfflohmarkt-urbar/"><img src="https://img.shields.io/badge/Live-%C3%B6ffnen-173f34?style=flat-square" alt="Live-Karte öffnen"></a>
+<a href="https://github.com/mpusceddu/dorfflohmarkt-urbar"><img src="https://img.shields.io/badge/Repository-ansehen-65736e?style=flat-square" alt="Repository ansehen"></a>
+</div>
 </td>
 <td width="50%" valign="top">
-<p align="center">
-<a href="https://marcopusceddu.de/"><img src="https://raw.githubusercontent.com/mpusceddu/marcopusceddu.de/main/assets/images/github-website-card-rounded.png" alt="Vorschau der persönlichen Website von Marco Pusceddu" width="100%"></a>
-</p>
-<h3 align="center">marcopusceddu.de</h3>
-<p>Meine persönliche Website mit Informationen zu meinem beruflichen Hintergrund, meinem kommunalpolitischen Engagement und direkten Kontaktmöglichkeiten.</p>
-<p><strong>Umsetzung:</strong> statische responsive Website, bewusst schlank aufgebaut und über GitHub Pages mit eigener Domain veröffentlicht.</p>
-<p align="center">
-<a href="https://marcopusceddu.de/"><img src="https://img.shields.io/badge/Website-%C3%B6ffnen-173f34?style=flat-square" alt="Website öffnen"></a>
+<div align="center">
+<a href="https://marcopusceddu.de/"><img src="https://raw.githubusercontent.com/mpusceddu/marcopusceddu.de/main/assets/images/github-website-card-rounded.png" alt="Vorschau der persönlichen Website von Marco Pusceddu" width="390" height="201"></a>
+<h3>marcopusceddu.de</h3>
+</div>
+<div align="left">
+Persönliche Website zu meinem beruflichen Profil,<br>
+meinem kommunalpolitischen Engagement<br>
+und den direkten Kontaktmöglichkeiten.
+</div>
+<br>
+<div align="left">
+<strong>Umsetzung:</strong> Responsive HTML-/CSS-Website,<br>
+GitHub Pages sowie eine eigene Domain.
+</div>
+<br><br>
+<div align="center">
+<a href="https://marcopusceddu.de/"><img src="https://img.shields.io/badge/Live-%C3%B6ffnen-173f34?style=flat-square" alt="Website öffnen"></a>
 <a href="https://github.com/mpusceddu/marcopusceddu.de"><img src="https://img.shields.io/badge/Repository-ansehen-65736e?style=flat-square" alt="Repository ansehen"></a>
-</p>
+</div>
 </td>
 </tr>
 </table>

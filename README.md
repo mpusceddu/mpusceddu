@@ -48,13 +48,13 @@
 </div>
 <div align="left">
 Interaktive Karte für die Flohmarktstände in Urbar.<br>
-Mobil nutzbar, ohne App oder Benutzerkonto.<br>
-Einfach öffnen, Stand finden und losstöbern.
+<a href="https://github.com/mpusceddu/dorfflohmarkt-urbar/blob/feature/standverwaltung/docs/admin-architektur.md">Geschützte Standverwaltung</a> ohne GitHub-Konto im Aufbau.<br>
+Die öffentliche Live-Karte bleibt bis zur Freigabe unverändert.
 </div>
 <br>
 <div align="left">
-<strong>Technik:</strong> HTML, CSS, JavaScript und Leaflet,<br>
-OpenStreetMap sowie GitHub Pages.
+<strong>In Entwicklung:</strong> Cloudflare Worker, Access und D1,<br>
+Rollenmodell sowie ein fest begrenzter Veröffentlichungsweg.
 </div>
 <br><br>
 <div align="center">

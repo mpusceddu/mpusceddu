@@ -14,115 +14,69 @@
 
 </div>
 
-<br>
+## Profil
 
-<table>
-<tr>
-<td width="62%" valign="top">
-<h2>Profil</h2>
-<p>Ich bin Geschäftsführer der <a href="https://vinofy.de/"><strong>vinofy GmbH</strong></a> und kommunalpolitisch in <strong>Urbar</strong> sowie in der <strong>Verbandsgemeinde Vallendar</strong> aktiv.</p>
-<p>GitHub nutze ich als öffentliche Werkbank für konkrete Projekte: verständlich dokumentiert, nachvollziehbar und direkt einsetzbar. Nicht Technik um der Technik willen, sondern Lösungen für reale Aufgaben.</p>
-</td>
-<td width="38%" valign="top">
-<h2>Arbeitsweise</h2>
-<ul>
-<li>konkret statt abstrakt</li>
-<li>verständlich statt unnötig kompliziert</li>
-<li>nachvollziehbar dokumentiert</li>
-<li>für den praktischen Einsatz gebaut</li>
-</ul>
-</td>
-</tr>
-</table>
+Ich bin Geschäftsführer der [**vinofy GmbH**](https://vinofy.de/) und kommunalpolitisch in **Urbar** sowie in der **Verbandsgemeinde Vallendar** aktiv.
 
-<br>
+GitHub nutze ich als öffentliche Werkbank für konkrete Projekte: verständlich dokumentiert, nachvollziehbar und direkt einsetzbar. Nicht Technik um der Technik willen, sondern Lösungen für reale Aufgaben.
+
+### Arbeitsweise
+
+- konkret statt abstrakt
+- verständlich statt unnötig kompliziert
+- nachvollziehbar dokumentiert
+- für den praktischen Einsatz gebaut
 
 ## Ausgewählte Projekte
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Dorfflohmarkt Urbar 2026
+
 <div align="center">
-<a href="https://github.com/mpusceddu/dorfflohmarkt-urbar"><img src="https://raw.githubusercontent.com/mpusceddu/dorfflohmarkt-urbar/main/docs/project-banner.svg" alt="Dorfflohmarkt Urbar 2026" width="390" height="201"></a>
-<h3>Dorfflohmarkt Urbar 2026</h3>
-</div>
-<div align="left">
-Interaktive Karte für die Flohmarktstände in Urbar.<br>
-<a href="https://github.com/mpusceddu/dorfflohmarkt-urbar/blob/feature/standverwaltung/docs/admin-architektur.md">Geschützte Standverwaltung</a> ohne GitHub-Konto im Aufbau.<br>
-Die öffentliche Live-Karte bleibt bis zur Freigabe unverändert.
-</div>
-<br>
-<div align="left">
-<strong>In Entwicklung:</strong> Cloudflare Worker, Access und D1,<br>
-Rollenmodell sowie ein fest begrenzter Veröffentlichungsweg.
-</div>
-<br><br>
-<div align="center">
-<a href="https://mpusceddu.github.io/dorfflohmarkt-urbar/"><img src="https://img.shields.io/badge/Live-%C3%B6ffnen-173f34?style=flat-square" alt="Live-Karte öffnen"></a>
-<a href="https://github.com/mpusceddu/dorfflohmarkt-urbar"><img src="https://img.shields.io/badge/Repository-ansehen-65736e?style=flat-square" alt="Repository ansehen"></a>
-</div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
-<a href="https://marcopusceddu.de/"><img src="https://raw.githubusercontent.com/mpusceddu/marcopusceddu.de/main/assets/images/github-website-card-rounded.png" alt="Vorschau der persönlichen Website von Marco Pusceddu" width="390" height="201"></a>
-<h3>marcopusceddu.de</h3>
-</div>
-<div align="left">
-Persönliche Website zu meinem beruflichen Profil,<br>
-meinem kommunalpolitischen Engagement<br>
-und den direkten Kontaktmöglichkeiten.
-</div>
-<br>
-<div align="left">
-<strong>Umsetzung:</strong> Responsive HTML-/CSS-Website,<br>
-GitHub Pages sowie eine eigene Domain.
-</div>
-<br><br>
-<div align="center">
-<a href="https://marcopusceddu.de/"><img src="https://img.shields.io/badge/Live-%C3%B6ffnen-173f34?style=flat-square" alt="Website öffnen"></a>
-<a href="https://github.com/mpusceddu/marcopusceddu.de"><img src="https://img.shields.io/badge/Repository-ansehen-65736e?style=flat-square" alt="Repository ansehen"></a>
-</div>
-</td>
-</tr>
-</table>
+
+<a href="https://github.com/mpusceddu/dorfflohmarkt-urbar"><img src="https://raw.githubusercontent.com/mpusceddu/dorfflohmarkt-urbar/main/docs/project-banner.svg" alt="Dorfflohmarkt Urbar 2026" width="100%"></a>
 
 <br>
+
+<a href="https://mpusceddu.github.io/dorfflohmarkt-urbar/"><img src="https://img.shields.io/badge/Live-%C3%B6ffnen-173f34?style=flat-square" alt="Live-Karte öffnen"></a>
+<a href="https://github.com/mpusceddu/dorfflohmarkt-urbar"><img src="https://img.shields.io/badge/Repository-ansehen-65736e?style=flat-square" alt="Repository ansehen"></a>
+
+</div>
+
+Interaktive Karte für die Flohmarktstände in Urbar. Mobil nutzbar, ohne App oder Benutzerkonto.
+
+Die [**geschützte Standverwaltung**](https://github.com/mpusceddu/dorfflohmarkt-urbar/blob/feature/standverwaltung/docs/admin-architektur.md) wird derzeit so aufgebaut, dass berechtigte Redakteure Stände ohne eigenen GitHub-Zugang pflegen können. Die öffentliche Live-Karte bleibt bis zur Freigabe unverändert.
+
+**In Entwicklung:** Cloudflare Worker, Access und D1, ein Rollenmodell sowie ein fest begrenzter Veröffentlichungsweg.
+
+---
+
+### marcopusceddu.de
+
+<div align="center">
+
+<a href="https://marcopusceddu.de/"><img src="https://raw.githubusercontent.com/mpusceddu/marcopusceddu.de/main/assets/images/github-website-card-rounded.png" alt="Vorschau der persönlichen Website von Marco Pusceddu" width="100%"></a>
+
+<br>
+
+<a href="https://marcopusceddu.de/"><img src="https://img.shields.io/badge/Live-%C3%B6ffnen-173f34?style=flat-square" alt="Website öffnen"></a>
+<a href="https://github.com/mpusceddu/marcopusceddu.de"><img src="https://img.shields.io/badge/Repository-ansehen-65736e?style=flat-square" alt="Repository ansehen"></a>
+
+</div>
+
+Persönliche Website zu meinem beruflichen Profil, meinem kommunalpolitischen Engagement und den direkten Kontaktmöglichkeiten.
+
+**Umsetzung:** Responsive HTML- und CSS-Website, GitHub Pages sowie eine eigene Domain.
 
 ## Themen und Arbeitsfelder
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3>Kommune und Bürger</h3>
-<ul>
-<li>digitale Bürgerinformation</li>
-<li>kommunale Infrastruktur</li>
-<li>Energie und Glasfaser</li>
-<li>transparente Kommunikation</li>
-</ul>
-</td>
-<td width="33%" valign="top">
-<h3>Unternehmen und Digitales</h3>
-<ul>
-<li>E-Commerce</li>
-<li>Shopify</li>
-<li>digitale Geschäftsmodelle</li>
-<li>pragmatische Automatisierung</li>
-</ul>
-</td>
-<td width="33%" valign="top">
-<h3>Technik und Zuhause</h3>
-<ul>
-<li>GitHub Pages</li>
-<li>Loxone</li>
-<li>UniFi</li>
-<li>Smart-Home-Integration</li>
-</ul>
-</td>
-</tr>
-</table>
+**Kommune und Bürger**  
+Digitale Bürgerinformation · kommunale Infrastruktur · Energie und Glasfaser · transparente Kommunikation
 
-<br>
+**Unternehmen und Digitales**  
+E-Commerce · Shopify · digitale Geschäftsmodelle · pragmatische Automatisierung
+
+**Technik und Zuhause**  
+GitHub Pages · Loxone · UniFi · Smart-Home-Integration
 
 <div align="center">
 
@@ -139,11 +93,11 @@ GitHub Pages sowie eine eigene Domain.
 <img src="https://img.shields.io/badge/Loxone-65736e?style=flat-square" alt="Loxone">
 <img src="https://img.shields.io/badge/UniFi-65736e?style=flat-square" alt="UniFi">
 
-<br><br>
+</div>
 
-<strong><em>„Technik ist dann gut, wenn sie ein konkretes Problem löst und ohne dickes Handbuch funktioniert.“</em></strong>
+> **„Technik ist dann gut, wenn sie ein konkretes Problem löst und ohne dickes Handbuch funktioniert.“**
 
-<br><br>
+<div align="center">
 
 <a href="https://marcopusceddu.de/"><img src="https://img.shields.io/badge/marcopusceddu.de-Website-173f34?style=flat-square" alt="Persönliche Website"></a>
 <a href="https://vinofy.de/"><img src="https://img.shields.io/badge/vinofy.de-Unternehmen-285943?style=flat-square" alt="vinofy GmbH"></a>

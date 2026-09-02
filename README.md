@@ -50,6 +50,27 @@ Die [**geschützte Standverwaltung**](https://github.com/mpusceddu/dorfflohmarkt
 
 ---
 
+### Vereinsring Urbar
+
+<div align="center">
+
+<a href="https://mpusceddu.github.io/vereinsring-urbar/"><img src="https://raw.githubusercontent.com/mpusceddu/vereinsring-urbar/main/assets/og-vereinsring-urbar.png" alt="Öffentliche Vorschau der Website des Vereinsrings Urbar" width="100%"></a>
+
+<br>
+
+<a href="https://mpusceddu.github.io/vereinsring-urbar/"><img src="https://img.shields.io/badge/Vorschau-%C3%B6ffnen-173f34?style=flat-square" alt="Vorschau der Vereinsring-Website öffnen"></a>
+<a href="https://github.com/mpusceddu/vereinsring-urbar"><img src="https://img.shields.io/badge/Repository-ansehen-65736e?style=flat-square" alt="Repository ansehen"></a>
+
+</div>
+
+Öffentliche Vorschau für einen gemeinsamen digitalen Auftritt des Vereinsrings und der Urbarer Vereine. Die Seite bündelt Vereine, Termine und gemeinsame Aktionen und ermöglicht es, Veranstaltungen strukturiert zu melden.
+
+**Umsetzung:** Responsive HTML-, CSS- und JavaScript-Website auf GitHub Pages, ohne Analyse, Cookies oder extern geladene Schriftarten.
+
+**Status:** Die Inhalte werden noch geprüft und abgestimmt. Es handelt sich derzeit ausdrücklich nicht um die offizielle Website des Vereinsrings.
+
+---
+
 ### marcopusceddu.de
 
 <div align="center">
@@ -71,6 +92,9 @@ Persönliche Website zu meinem beruflichen Profil, meinem kommunalpolitischen En
 
 **Kommune und Bürger**  
 Digitale Bürgerinformation · kommunale Infrastruktur · Energie und Glasfaser · transparente Kommunikation
+
+**Vereine und Ehrenamt**  
+Gemeinsame Öffentlichkeitsarbeit · Veranstaltungskalender · digitale Zusammenarbeit · Sichtbarkeit des Vereinslebens
 
 **Unternehmen und Digitales**  
 E-Commerce · Shopify · digitale Geschäftsmodelle · pragmatische Automatisierung

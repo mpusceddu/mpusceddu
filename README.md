@@ -71,6 +71,23 @@ Die [**geschützte Standverwaltung**](https://github.com/mpusceddu/dorfflohmarkt
 
 ---
 
+### CDU Verbandsgemeinde Vallendar
+
+<div align="center">
+
+<a href="https://mpusceddu.github.io/cdu-vallendar/"><img src="https://img.shields.io/badge/Vorschau-%C3%B6ffnen-173f34?style=flat-square" alt="Vorschau der CDU-Website öffnen"></a>
+<a href="https://github.com/mpusceddu/cdu-vallendar"><img src="https://img.shields.io/badge/Repository-ansehen-65736e?style=flat-square" alt="Repository ansehen"></a>
+
+</div>
+
+Öffentliche Vorschau für den gemeinsamen Internetauftritt der CDU in Vallendar, Niederwerth, Urbar und Weitersburg. Die örtlichen Teams und Fraktionen bleiben innerhalb eines gemeinsamen Auftritts sichtbar.
+
+**Umsetzung:** Schlanke responsive HTML- und CSS-Website auf GitHub Pages, ohne Analyse, Cookies oder extern geladene Schriftarten.
+
+**Status:** CDU-Corporate-Design, Personen, Kontaktdaten und Rechtstexte werden noch geprüft. Die Vorschau ist noch nicht der offizielle Internetauftritt des Verbandes.
+
+---
+
 ### marcopusceddu.de
 
 <div align="center">

@@ -75,6 +75,10 @@ Die [**geschützte Standverwaltung**](https://github.com/mpusceddu/dorfflohmarkt
 
 <div align="center">
 
+<a href="https://mpusceddu.github.io/cdu-vallendar/"><img src="https://raw.githubusercontent.com/mpusceddu/cdu-vallendar/main/assets/images/github-project-card.svg" alt="CDU Verbandsgemeinde Vallendar – vier Orte, eine gemeinsame Stimme" width="100%"></a>
+
+<br>
+
 <a href="https://mpusceddu.github.io/cdu-vallendar/"><img src="https://img.shields.io/badge/Vorschau-%C3%B6ffnen-173f34?style=flat-square" alt="Vorschau der CDU-Website öffnen"></a>
 <a href="https://github.com/mpusceddu/cdu-vallendar"><img src="https://img.shields.io/badge/Repository-ansehen-65736e?style=flat-square" alt="Repository ansehen"></a>
 

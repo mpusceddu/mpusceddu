@@ -80,11 +80,13 @@ Die [**geschützte Standverwaltung**](https://github.com/mpusceddu/dorfflohmarkt
 
 </div>
 
-Öffentliche Vorschau für den gemeinsamen Internetauftritt der CDU in Vallendar, Niederwerth, Urbar und Weitersburg. Die örtlichen Teams und Fraktionen bleiben innerhalb eines gemeinsamen Auftritts sichtbar.
+Gemeinsamer Internetauftritt der CDU in Vallendar, Niederwerth, Urbar und Weitersburg. Die Website verbindet den Gemeindeverband mit den örtlichen Ebenen und bildet Vorstand, Fraktionen sowie die unterschiedlichen politischen Situationen in den fünf Räten transparent ab.
 
-**Umsetzung:** Schlanke responsive HTML- und CSS-Website auf GitHub Pages, ohne Analyse, Cookies oder extern geladene Schriftarten.
+**Inhalte:** Startseite, eigene Seiten für alle vier Orte und die VG-Fraktion, Vorstands- und Teamübersicht, politische Themen, filterbare Anträge sowie Impressum und Datenschutz.
 
-**Status:** CDU-Corporate-Design, Personen, Kontaktdaten und Rechtstexte werden noch geprüft. Die Vorschau ist noch nicht der offizielle Internetauftritt des Verbandes.
+**Umsetzung:** Schlanke responsive HTML-, CSS- und JavaScript-Website auf GitHub Pages, ohne Analyse, Cookies oder extern geladene Schriftarten.
+
+**Status:** Öffentliche Entwicklungsfassung. Vor dem offiziellen Start werden noch Domain, Funktions-E-Mail-Adressen und Bildmaterial festgelegt.
 
 ---
 

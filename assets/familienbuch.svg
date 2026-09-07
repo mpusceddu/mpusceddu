@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Unser Familienbuch</title><desc id="desc">Familiengeschichte bewahren und Verbindungen über Generationen entdecken. Privates Projekt in Entwicklung.</desc>
+<rect width="1200" height="300" rx="24" fill="#173b49"/>
+<circle cx="1070" cy="150" r="180" fill="#214954"/>
+<g fill="none" stroke="#dfb98f" stroke-width="4" opacity=".9"><path d="M980 224v-73m0 0H880V95m100 56h100V95M880 95h-42V56m42 39h42V56m158 39h-42V56m42 39h42V56"/></g>
+<g fill="#f6f2eb" stroke="#dfb98f" stroke-width="3"><circle cx="980" cy="224" r="22"/><circle cx="880" cy="95" r="17"/><circle cx="1080" cy="95" r="17"/><circle cx="838" cy="56" r="11"/><circle cx="922" cy="56" r="11"/><circle cx="1038" cy="56" r="11"/><circle cx="1122" cy="56" r="11"/></g>
+<g font-family="Arial, sans-serif"><text x="60" y="71" fill="#dfb98f" font-size="16" letter-spacing="3">IM FAMILIENKREIS</text><text x="60" y="135" fill="#ffffff" font-size="48" font-weight="700">Unser Familienbuch</text><text x="62" y="178" fill="#d2e0e1" font-size="23">Geschichten bewahren. Generationen verbinden.</text><rect x="60" y="216" width="252" height="36" rx="18" fill="#315563"/><text x="80" y="239" fill="#f6f2eb" font-size="15">Privates Projekt · In Entwicklung</text></g>
+</svg>

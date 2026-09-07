@@ -96,6 +96,27 @@ Gemeinsamer Internetauftritt der CDU in Vallendar, Niederwerth, Urbar und Weiter
 
 ---
 
+### Unser Familienbuch
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mpusceddu/mpusceddu/main/assets/familienbuch.svg" alt="Unser Familienbuch – Geschichten bewahren und Generationen verbinden" width="100%">
+
+<br>
+
+<img src="https://img.shields.io/badge/Projekt-privat-173f34?style=flat-square" alt="Privates Familienprojekt">
+<img src="https://img.shields.io/badge/Status-in%20Entwicklung-65736e?style=flat-square" alt="In Entwicklung">
+
+</div>
+
+Ein gemeinsames digitales Familienbuch mit Lebensgeschichten, Fotos und einem Stammbaum über mehrere Generationen. Jedes Familienmitglied kann seinen eigenen Einstieg wählen und von dort die Verbindungen innerhalb der Familie entdecken.
+
+**Umsetzung:** Personensuche, Familienbeziehungen, bewusst gewählte Namensdarstellung und ein gemeinsamer Passwortzugang für die lokale Vorschau.
+
+**Status:** Privates Projekt in Entwicklung. Der Quellcode und der Projektstand sind im [privaten Repository](https://github.com/mpusceddu/familienbuch) gesichert. Familiendaten, Bilder und Zugangsdaten bleiben außerhalb von GitHub. Die geschützte Bereitstellung für die Familie folgt als nächster Schritt; die Website ist noch nicht veröffentlicht.
+
+---
+
 ### marcopusceddu.de
 
 <div align="center">

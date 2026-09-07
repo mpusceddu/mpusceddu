@@ -104,16 +104,16 @@ Gemeinsamer Internetauftritt der CDU in Vallendar, Niederwerth, Urbar und Weiter
 
 <br>
 
-<img src="https://img.shields.io/badge/Projekt-privat-173f34?style=flat-square" alt="Privates Familienprojekt">
-<img src="https://img.shields.io/badge/Status-in%20Entwicklung-65736e?style=flat-square" alt="In Entwicklung">
+<a href="https://mpusceddu.github.io/familienbuch-pages/"><img src="https://img.shields.io/badge/Familienbuch-%C3%B6ffnen-173f34?style=flat-square" alt="Anmeldeseite des Familienbuchs öffnen"></a>
+<img src="https://img.shields.io/badge/Inhalte-verschl%C3%BCsselt-65736e?style=flat-square" alt="Verschlüsselte Familieninhalte">
 
 </div>
 
 Ein gemeinsames digitales Familienbuch mit Lebensgeschichten, Fotos und einem Stammbaum über mehrere Generationen. Jedes Familienmitglied kann seinen eigenen Einstieg wählen und von dort die Verbindungen innerhalb der Familie entdecken.
 
-**Umsetzung:** Personensuche, Familienbeziehungen, bewusst gewählte Namensdarstellung und ein gemeinsamer Passwortzugang für die lokale Vorschau.
+**Umsetzung:** Personensuche, Familienbeziehungen, bewusst gewählte Namensdarstellung und ein gemeinsames Familienpasswort. Daten und Bilder werden vor der Veröffentlichung verschlüsselt und erst nach Eingabe des Passworts im Browser geöffnet.
 
-**Status:** Privates Projekt in Entwicklung. Der Quellcode und der Projektstand sind im [privaten Repository](https://github.com/mpusceddu/familienbuch) gesichert. Familiendaten, Bilder und Zugangsdaten bleiben außerhalb von GitHub. Die geschützte Bereitstellung für die Familie folgt als nächster Schritt; die Website ist noch nicht veröffentlicht.
+**Status:** Die erste verschlüsselte Fassung ist auf [GitHub Pages](https://mpusceddu.github.io/familienbuch-pages/) online. Der bearbeitbare Quellcode bleibt im [privaten Repository](https://github.com/mpusceddu/familienbuch); die [öffentliche Ausgabe](https://github.com/mpusceddu/familienbuch-pages) enthält ausschließlich die Anmeldeseite, Programmdateien und verschlüsselte Inhalte. Originaldaten, unverschlüsselte Bilder und das Passwort bleiben lokal. Die Verbindung der eigenen Subdomain wird vorbereitet; die gemeinsame Bedienabnahme steht noch aus.
 
 ---
 

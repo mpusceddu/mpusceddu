@@ -4,11 +4,12 @@
 
 <br>
 
-<strong>Unternehmer · Kommunalpolitiker · digitale Projekte und eigene Beiträge</strong>
+<strong>Unternehmer · Kommunalpolitiker · digitale Projekte, Energie und eigene Beiträge</strong>
 
 <br><br>
 
 <a href="https://vinofy.de/"><img src="https://img.shields.io/badge/Gesch%C3%A4ftsf%C3%BChrer-vinofy%20GmbH-071f33?style=flat-square" alt="Geschäftsführer der vinofy GmbH"></a>
+<a href="#pv-kita-urbar"><img src="https://img.shields.io/badge/Energieprojekt-PV%20Kita%20Urbar-007579?style=flat-square" alt="Energieprojekt PV Kita Urbar"></a>
 <a href="https://marcopusceddu.de/"><img src="https://img.shields.io/badge/Website-marcopusceddu.de-007579?style=flat-square" alt="Persönliche Website marcopusceddu.de"></a>
 <a href="https://marcopusceddu.de/aktuelles/"><img src="https://img.shields.io/badge/Aktuelles-Beitr%C3%A4ge%20und%20Positionen-566670?style=flat-square" alt="Beiträge und Positionen"></a>
 
@@ -18,9 +19,9 @@
 
 Ich bin Geschäftsführer der [**vinofy GmbH**](https://vinofy.de/) und kommunalpolitisch in **Urbar** sowie in der **Verbandsgemeinde Vallendar** aktiv.
 
-GitHub nutze ich als öffentliche Werkbank für Websites, Bürgerprojekte und nachvollziehbare digitale Arbeitsabläufe. Entscheidend ist nicht die technische Spielerei, sondern ob eine Lösung verständlich ist, ein konkretes Problem löst und dauerhaft gepflegt werden kann.
+GitHub nutze ich als öffentliche Werkbank für Websites, Bürger- und Energieprojekte sowie nachvollziehbare digitale Arbeitsabläufe. Entscheidend ist nicht die technische Spielerei, sondern ob eine Lösung verständlich ist, ein konkretes Problem löst und dauerhaft gepflegt werden kann.
 
-Meine persönliche Website [**marcopusceddu.de**](https://marcopusceddu.de/) ist inzwischen die zentrale Plattform für mein berufliches Profil, mein kommunalpolitisches Engagement, konkrete Projekte sowie eigene Berichte und Positionen.
+Meine persönliche Website [**marcopusceddu.de**](https://marcopusceddu.de/) ist die zentrale Plattform für mein berufliches Profil, mein kommunalpolitisches Engagement, konkrete Projekte sowie eigene Berichte und Positionen.
 
 ### Arbeitsweise
 
@@ -28,9 +29,53 @@ Meine persönliche Website [**marcopusceddu.de**](https://marcopusceddu.de/) ist
 - verständlich statt unnötig kompliziert
 - nachvollziehbar dokumentiert
 - mobil und barrierearm gedacht
-- für den praktischen Einsatz gebaut
+- wirtschaftlich und praktisch geprüft
+- für den tatsächlichen Einsatz gebaut
 
 ## Aktuell im Fokus
+
+### PV Kita Urbar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mpusceddu/mpusceddu/main/assets/pv-kita-urbar.svg" alt="PV Kita Urbar – kommunales Energieprojekt" width="100%">
+
+<br>
+
+<img src="https://img.shields.io/badge/Status-Konzept%20%26%20Wirtschaftlichkeit-071f33?style=flat-square" alt="Status: Konzept und Wirtschaftlichkeit">
+<img src="https://img.shields.io/badge/Fokus-Eigenverbrauch%20%26%20Kosten-007579?style=flat-square" alt="Fokus: Eigenverbrauch und Kosten">
+
+</div>
+
+Prüfung einer Photovoltaikanlage auf dem Dach der Kita in Urbar. Im Mittelpunkt stehen ein hoher Eigenverbrauch, niedrigere laufende Stromkosten, realistische Investitionskosten und eine belastbare Entscheidungsgrundlage.
+
+**Aktueller Arbeitsstand:** Technische und wirtschaftliche Varianten werden so aufbereitet, dass Leistung, Verbrauch, Eigenverbrauch und Kosten nachvollziehbar miteinander verglichen werden können.
+
+**Einordnung:** Das Projekt befindet sich in der Konzept- und Wirtschaftlichkeitsphase. Die fachliche Vorbereitung ist damit weiter, eine Umsetzung wird dadurch aber noch nicht als beschlossen dargestellt.
+
+---
+
+### vinofy GmbH & Shopify
+
+<div align="center">
+
+<a href="https://vinofy.de/"><img src="https://raw.githubusercontent.com/mpusceddu/mpusceddu/main/assets/vinofy-website.svg" alt="vinofy GmbH – Unternehmenswebsite und Shopify" width="100%"></a>
+
+<br>
+
+<a href="https://vinofy.de/"><img src="https://img.shields.io/badge/vinofy.de-%C3%B6ffnen-071f33?style=flat-square" alt="vinofy.de öffnen"></a>
+<a href="https://marcopusceddu.myshopify.com/"><img src="https://img.shields.io/badge/Shopify--Account-%C3%B6ffnen-007579?style=flat-square" alt="Shopify-Account öffnen"></a>
+<img src="https://img.shields.io/badge/Shop-noch%20in%20Vorbereitung-566670?style=flat-square" alt="Shop noch in Vorbereitung">
+
+</div>
+
+Die Unternehmenswebsite verbindet **E-Commerce- und Shopify-Beratung**, den praktischen Einsatz von KI, Strategie, eigene digitale Vorhaben und die Offenheit für zukünftige Beteiligungen.
+
+**Neu ergänzt:** Der bestehende Shopify-Account ist jetzt als eigenes Vorhaben direkt auf der vinofy-Website eingebunden. Damit wird der Shop nicht nur technisch verlinkt, sondern als konkretes digitales Projekt der nächsten Unternehmensphase sichtbar. Der Shop selbst befindet sich weiterhin in Vorbereitung.
+
+**Umsetzung:** Schlanke HTML-, CSS- und JavaScript-Website ohne Framework oder Datenbank. Der Quellcode liegt in einem privaten Repository; die öffentliche Website wird getrennt davon bereitgestellt.
+
+---
 
 ### marcopusceddu.de
 
@@ -48,28 +93,9 @@ Meine persönliche Website [**marcopusceddu.de**](https://marcopusceddu.de/) ist
 
 Persönliche Website als zentrale öffentliche Plattform: Unternehmerprofil, kommunalpolitisches Engagement, direkte Kontaktmöglichkeiten sowie ein vollständiger Bereich für Berichte, Einblicke und persönliche Positionen.
 
-**Aktueller Stand:** neue MP-Marke und dunkelblaue-türkise Gestaltung, vollständiges Beitragsarchiv, Social-Media-Vorschaubild, Suchmaschinen-Vorbereitung und direkte Verweise zu den kommunalpolitischen Themen- und Fraktionsseiten.
+**Aktueller Stand:** MP-Marke und dunkelblaue-türkise Gestaltung, vollständiges Beitragsarchiv, Social-Media-Vorschaubild, Suchmaschinen-Vorbereitung und direkte Verweise zu den kommunalpolitischen Themen- und Fraktionsseiten.
 
 **Redaktioneller Ablauf:** Die Website bleibt statisch und schnell. Ein Python-Skript erzeugt aus den freigegebenen Artikeln automatisch Startseitenvorschau, Archiv und Sitemap. Prüfungen verhindern fehlerhafte Metadaten, falsche Adressen und zukünftige Veröffentlichungsdaten.
-
----
-
-### vinofy GmbH
-
-<div align="center">
-
-<a href="https://vinofy.de/"><img src="https://raw.githubusercontent.com/mpusceddu/mpusceddu/main/assets/vinofy-website.svg" alt="vinofy GmbH – Unternehmenswebsite im Neuaufbau" width="100%"></a>
-
-<br>
-
-<a href="https://vinofy.de/"><img src="https://img.shields.io/badge/vinofy.de-%C3%B6ffnen-071f33?style=flat-square" alt="vinofy.de öffnen"></a>
-<img src="https://img.shields.io/badge/Status-Arbeitsfassung-566670?style=flat-square" alt="Arbeitsfassung">
-
-</div>
-
-Neuaufbau der Unternehmenswebsite für **E-Commerce- und Shopify-Beratung**, Strategie, eigene digitale Vorhaben und die Offenheit für zukünftige Beteiligungen. Das Unternehmensporträt verbindet die Erfahrung aus früheren E-Commerce-Projekten mit der heutigen Rolle der vinofy GmbH.
-
-**Umsetzung:** direkt bearbeitbare HTML- und CSS-Dateien ohne Framework, Datenbank oder Build-System. Die Arbeitsfassung bleibt bis zur inhaltlichen, rechtlichen und visuellen Abnahme von der öffentlichen Veröffentlichung getrennt.
 
 ## Weitere Projekte
 
@@ -150,7 +176,10 @@ Der bearbeitbare Quellcode bleibt privat. Die öffentliche Ausgabe enthält nur 
 ## Themen und Arbeitsfelder
 
 **Unternehmen und digitale Vorhaben**  
-E-Commerce · Shopify · Unternehmenswebsites · digitale Geschäftsmodelle · Beteiligungen
+E-Commerce · Shopify · Shopify-Account und Shop · KI im Arbeitsalltag · Unternehmenswebsites · digitale Geschäftsmodelle · Beteiligungen
+
+**Energie und kommunale Projekte**  
+Photovoltaik · Eigenverbrauch · Wirtschaftlichkeitsvergleich · Investitionsrahmen · Entscheidungsgrundlagen
 
 **Kommune und Bürger**  
 Digitale Bürgerinformation · kommunale Infrastruktur · Energie und Glasfaser · transparente Kommunikation

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="735" viewBox="0 0 1400 735" role="img" aria-labelledby="title desc">
+  <title id="title">PV Kita Urbar</title>
+  <desc id="desc">Projektkarte zur Prüfung einer wirtschaftlichen Photovoltaikanlage auf dem Dach der Kita in Urbar.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071f33"/>
+      <stop offset="0.62" stop-color="#08384b"/>
+      <stop offset="1" stop-color="#007579"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7d774"/>
+      <stop offset="1" stop-color="#f1a83b"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#00121f" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="735" rx="42" fill="url(#bg)"/>
+  <circle cx="1210" cy="126" r="104" fill="url(#sun)" opacity="0.95"/>
+  <circle cx="1210" cy="126" r="154" fill="#f7d774" fill-opacity="0.08"/>
+  <path d="M0 592C270 510 462 656 738 575S1128 493 1400 555V735H0Z" fill="#00a6a6" fill-opacity="0.11"/>
+
+  <g transform="translate(90 86)">
+    <text x="0" y="0" dominant-baseline="hanging" fill="#75e1dc" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="27" font-weight="780" letter-spacing="5">KOMMUNALES ENERGIEPROJEKT</text>
+    <text x="0" y="132" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-weight="700">PV Kita Urbar</text>
+    <text x="0" y="232" fill="#dcebed" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="37">Eigenverbrauch, Wirtschaftlichkeit und belastbare Planung.</text>
+
+    <g transform="translate(0 330)" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="25" font-weight="700">
+      <g>
+        <rect width="252" height="64" rx="32" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.24"/>
+        <text x="126" y="42" text-anchor="middle" fill="#ffffff">Photovoltaik</text>
+      </g>
+      <g transform="translate(272 0)">
+        <rect width="255" height="64" rx="32" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.24"/>
+        <text x="127.5" y="42" text-anchor="middle" fill="#ffffff">Eigenverbrauch</text>
+      </g>
+      <g transform="translate(547 0)">
+        <rect width="318" height="64" rx="32" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.24"/>
+        <text x="159" y="42" text-anchor="middle" fill="#ffffff">Wirtschaftlichkeit</text>
+      </g>
+    </g>
+
+    <text x="0" y="510" fill="#a9cdd1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="27">Von der Idee zur entscheidungsfähigen Grundlage.</text>
+  </g>
+
+  <g transform="translate(988 286)" filter="url(#shadow)">
+    <path d="M36 170 200 50l164 120v210H36Z" fill="#f6f4ef"/>
+    <path d="M20 180 200 42l180 138" fill="none" stroke="#dfe4e4" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="82" y="139" width="236" height="112" rx="12" fill="#0d5261" transform="rotate(-1 200 195)"/>
+    <g stroke="#75e1dc" stroke-width="4" opacity="0.9">
+      <line x1="141" y1="139" x2="141" y2="250"/>
+      <line x1="200" y1="139" x2="200" y2="250"/>
+      <line x1="259" y1="139" x2="259" y2="250"/>
+      <line x1="82" y1="195" x2="318" y2="195"/>
+    </g>
+    <rect x="160" y="290" width="80" height="90" rx="8" fill="#007579"/>
+    <circle cx="220" cy="337" r="5" fill="#f6f4ef"/>
+  </g>
+</svg>

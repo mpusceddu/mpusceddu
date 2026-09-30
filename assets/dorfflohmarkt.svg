@@ -1,0 +1,60 @@
+<svg font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720" role="img" aria-labelledby="title desc">
+  <title id="title">Dorfflohmarkt Urbar 2026</title>
+  <desc id="desc">Projektbanner mit einer stilisierten Karte und nummerierten Flohmarktständen.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#193d2e"/>
+      <stop offset="1" stop-color="#285943"/>
+    </linearGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#193d2e" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="720" rx="38" fill="#fffaf0"/>
+  <path d="M0 0h680v720H38C17 720 0 703 0 682V38C0 17 17 0 38 0Z" fill="url(#bg)"/>
+
+  <g transform="translate(82 92)">
+    <text x="0" y="0" dominant-baseline="hanging" fill="#cfe5d8" font-size="24" font-weight="700" letter-spacing="3">DIGITALES BÜRGERPROJEKT</text>
+    <text x="0" y="100" fill="#ffffff" font-size="76" font-weight="700">Dorfflohmarkt</text>
+    <text x="0" y="184" fill="#ffffff" font-size="76" font-weight="700">Urbar 2026</text>
+    <text x="0" y="270" fill="#e8f2ec" font-size="31">Interaktive Karte für bis zu 82 Stände</text>
+
+    <g transform="translate(0 350)">
+      <rect width="438" height="76" rx="20" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.24"/>
+      <circle cx="44" cy="38" r="18" fill="#e0a72f"/>
+      <path d="M36 38h16M44 30v16" stroke="#193d2e" stroke-width="4" stroke-linecap="round"/>
+      <text x="80" y="47" fill="#ffffff" font-size="25" font-weight="700">Einfach finden. Vor Ort stöbern.</text>
+    </g>
+
+    <text x="0" y="520" fill="#cfe5d8" font-size="23">Leaflet · OpenStreetMap · JavaScript · GitHub Pages</text>
+  </g>
+
+  <g transform="translate(735 54)">
+    <rect width="610" height="612" rx="32" fill="#ffffff" filter="url(#shadow)"/>
+    <rect x="28" y="28" width="554" height="556" rx="24" fill="#e8eee9"/>
+
+    <path d="M68 80C185 135 238 115 335 65S510 50 560 95" fill="none" stroke="#ffffff" stroke-width="24" stroke-linecap="round"/>
+    <path d="M45 220C135 176 204 194 278 260S449 365 565 292" fill="none" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+    <path d="M82 500C178 419 263 398 346 438S489 516 553 472" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round"/>
+    <path d="M160 55C181 164 154 264 192 346S265 480 252 560" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+    <path d="M420 48C395 145 430 232 404 314S349 450 388 565" fill="none" stroke="#ffffff" stroke-width="19" stroke-linecap="round"/>
+
+    <path d="M492 30C455 128 462 210 502 296S579 475 548 584" fill="none" stroke="#9ac7d7" stroke-width="50" stroke-linecap="round" opacity="0.9"/>
+
+    <g font-size="22" font-weight="700" text-anchor="middle" dominant-baseline="central" fill="#ffffff">
+      <g transform="translate(142 120)"><circle r="30" fill="#285943" stroke="#ffffff" stroke-width="5"/><text y="1">1</text></g>
+      <g transform="translate(302 157)"><circle r="30" fill="#285943" stroke="#ffffff" stroke-width="5"/><text y="1">2</text></g>
+      <g transform="translate(442 230)"><circle r="30" fill="#285943" stroke="#ffffff" stroke-width="5"/><text y="1">3</text></g>
+      <g transform="translate(198 322)"><circle r="30" fill="#285943" stroke="#ffffff" stroke-width="5"/><text y="1">4</text></g>
+      <g transform="translate(356 398)"><circle r="30" fill="#285943" stroke="#ffffff" stroke-width="5"/><text y="1">5</text></g>
+      <g transform="translate(145 482)"><circle r="30" fill="#285943" stroke="#ffffff" stroke-width="5"/><text y="1">6</text></g>
+      <g transform="translate(475 510)"><circle r="30" fill="#285943" stroke="#ffffff" stroke-width="5"/><text y="1">7</text></g>
+    </g>
+
+    <g transform="translate(60 524)">
+      <rect width="292" height="42" rx="21" fill="#193d2e" fill-opacity="0.9"/>
+      <text x="146" y="28" text-anchor="middle" fill="#ffffff" font-size="19" font-weight="700">Urbar · Rheinland-Pfalz</text>
+    </g>
+  </g>
+</svg>

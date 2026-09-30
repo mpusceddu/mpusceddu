@@ -77,6 +77,22 @@ Die Unternehmenswebsite verbindet **E-Commerce- und Shopify-Beratung**, den prak
 
 ---
 
+### E-Mail-Signaturen für Apple Mail
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Apple%20Mail-Mac%20%26%20iPhone-071f33?style=flat-square" alt="Apple Mail auf Mac und iPhone">
+<img src="https://img.shields.io/badge/Varianten-vinofy%20%C2%B7%20CDU%20%C2%B7%20privat-007579?style=flat-square" alt="Varianten für vinofy, CDU und privat">
+<img src="https://img.shields.io/badge/Status-eingerichtet-566670?style=flat-square" alt="Signaturen eingerichtet">
+
+</div>
+
+Einheitliche E-Mail-Signaturen für drei unterschiedliche Kommunikationsbereiche: **vinofy**, **CDU** und **privat**. Die Varianten sind für **Apple Mail auf dem Mac** fertiggestellt und zusätzlich auf dem **iPhone** eingerichtet.
+
+**Ziel:** ein konsistenter Absenderauftritt über beide Geräte hinweg – mit klarer Trennung zwischen geschäftlicher, kommunalpolitischer und privater Kommunikation.
+
+**Status:** Die drei Signaturen sind fertiggestellt und auf Mac und iPhone im praktischen Einsatz.
+
 ### marcopusceddu.de
 
 <div align="center">
@@ -187,8 +203,8 @@ Digitale Bürgerinformation · kommunale Infrastruktur · Energie und Glasfaser 
 **Vereine und Ehrenamt**  
 Gemeinsame Öffentlichkeitsarbeit · Veranstaltungskalender · digitale Zusammenarbeit · Sichtbarkeit des Vereinslebens
 
-**Publikation und Pflege**  
-Statische Websites · Beitragsarchive · automatisierte Übersichten · Metadatenprüfung · Suchmaschinen-Vorbereitung
+**Publikation und digitale Kommunikation**  
+Statische Websites · Beitragsarchive · automatisierte Übersichten · Metadatenprüfung · Suchmaschinen-Vorbereitung · HTML-Signaturen · Apple Mail
 
 **Technik und Zuhause**  
 Loxone · UniFi · Smart-Home-Integration · Energie- und Netzwerktechnik
@@ -206,6 +222,7 @@ Loxone · UniFi · Smart-Home-Integration · Energie- und Netzwerktechnik
 <img src="https://img.shields.io/badge/GitHub%20Pages-566670?style=flat-square" alt="GitHub Pages">
 <img src="https://img.shields.io/badge/Cloudflare-566670?style=flat-square" alt="Cloudflare">
 <img src="https://img.shields.io/badge/Shopify-566670?style=flat-square" alt="Shopify">
+<img src="https://img.shields.io/badge/Apple%20Mail-566670?style=flat-square" alt="Apple Mail">
 <img src="https://img.shields.io/badge/Loxone-566670?style=flat-square" alt="Loxone">
 <img src="https://img.shields.io/badge/UniFi-566670?style=flat-square" alt="UniFi">
 

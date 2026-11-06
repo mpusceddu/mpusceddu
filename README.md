@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mpusceddu/marcopusceddu.de/main/assets/images/github-profile-banner.svg" alt="Marco Pusceddu – Unternehmer, Kommunalpolitik und digitale Projekte" width="100%">
+<img src="https://marcopusceddu.de/assets/images/github-profile-banner.svg" alt="Marco Pusceddu – Unternehmer, Kommunalpolitik und digitale Projekte" width="100%">
 
 <br>
 
@@ -97,7 +97,7 @@ Einheitliche E-Mail-Signaturen für drei unterschiedliche Kommunikationsbereiche
 
 <div align="center">
 
-<a href="https://marcopusceddu.de/"><img src="https://raw.githubusercontent.com/mpusceddu/marcopusceddu.de/main/assets/images/github-website-card-rounded.png" alt="Vorschau der persönlichen Website von Marco Pusceddu" width="100%"></a>
+<a href="https://marcopusceddu.de/"><img src="https://marcopusceddu.de/assets/images/github-website-card-rounded.png" alt="Vorschau der persönlichen Website von Marco Pusceddu" width="100%"></a>
 
 <br>
 

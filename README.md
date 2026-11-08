@@ -103,7 +103,6 @@ Einheitliche E-Mail-Signaturen für drei unterschiedliche Kommunikationsbereiche
 
 <a href="https://marcopusceddu.de/"><img src="assets/badges/badge-13.svg" alt="Website öffnen"></a>
 <a href="https://marcopusceddu.de/aktuelles/"><img src="assets/badges/badge-14.svg" alt="Beiträge ansehen"></a>
-<a href="https://github.com/mpusceddu/marcopusceddu.de"><img src="assets/badges/badge-15.svg" alt="Repository ansehen"></a>
 
 </div>
 
@@ -115,22 +114,21 @@ Persönliche Website als zentrale öffentliche Plattform: Unternehmerprofil, kom
 
 ## Weitere Projekte
 
-### Dorfflohmarkt Urbar 2026
+### Dorfflohmarkt Urbar
 
 <div align="center">
 
-<a href="https://github.com/mpusceddu/dorfflohmarkt-urbar"><img src="assets/dorfflohmarkt.svg" alt="Dorfflohmarkt Urbar 2026" width="100%"></a>
+<a href="https://dorfflohmarkt-urbar.de/"><img src="assets/dorfflohmarkt.svg" alt="Dorfflohmarkt Urbar 2026" width="100%"></a>
 
 <br>
 
-<a href="https://dorfflohmarkt-urbar.de/"><img src="assets/badges/badge-16.svg" alt="Live-Karte öffnen"></a>
-<a href="https://github.com/mpusceddu/dorfflohmarkt-urbar"><img src="assets/badges/badge-15.svg" alt="Repository ansehen"></a>
+<a href="https://dorfflohmarkt-urbar.de/"><img src="assets/badges/badge-13.svg" alt="Website öffnen"></a>
 
 </div>
 
-Interaktive und mobil nutzbare Karte für die Flohmarktstände in Urbar. Die öffentliche Anwendung verbindet Leaflet, OpenStreetMap und GitHub Pages mit einer schlanken Datenstruktur.
+Interaktive und mobil nutzbare Karte, die den Dorfflohmarkt Urbar 2026 begleitet hat. Die Anwendung verband Leaflet, OpenStreetMap und GitHub Pages mit einer schlanken Datenstruktur. Nach dem Flohmarkt zeigt die Seite den Ausblick auf 2027.
 
-Die geschützte Standverwaltung wird mit **Cloudflare Worker, Access und D1** aufgebaut. Berechtigte Redakteure sollen Stände ohne eigenen GitHub-Zugang pflegen können; der veröffentlichbare Dateipfad bleibt serverseitig fest begrenzt.
+Für 2027 ist die Grundlage für eine geschützte Standverwaltung mit **Cloudflare Worker, Access und D1** vorbereitet. Berechtigte Redakteure sollen Stände dann ohne eigenen GitHub-Zugang pflegen können.
 
 ---
 
@@ -162,7 +160,6 @@ Die geschützte Standverwaltung wird mit **Cloudflare Worker, Access und D1** au
 <br>
 
 <a href="https://mpusceddu.github.io/cdu-vallendar/"><img src="assets/badges/badge-17.svg" alt="Vorschau der CDU-Website öffnen"></a>
-<a href="https://github.com/mpusceddu/cdu-vallendar"><img src="assets/badges/badge-15.svg" alt="Repository ansehen"></a>
 
 </div>
 

@@ -42,16 +42,17 @@ Meine persönliche Website [**marcopusceddu.de**](https://marcopusceddu.de/) ist
 
 <br>
 
-<img src="assets/badges/badge-05.svg" alt="Status: Konzept und Wirtschaftlichkeit">
 <img src="assets/badges/badge-06.svg" alt="Fokus: Eigenverbrauch und Kosten">
+
+<img src="assets/badges/status-pv-kita.svg" alt="Konzept zur Abstimmung">
 
 </div>
 
-Prüfung einer Photovoltaikanlage auf dem Dach der Kita in Urbar. Im Mittelpunkt stehen ein hoher Eigenverbrauch, niedrigere laufende Stromkosten, realistische Investitionskosten und eine belastbare Entscheidungsgrundlage.
+Konzept für eine Photovoltaikanlage auf dem Dach der Kita „Unter dem Regenbogen“ in Urbar. Ziel ist, den erzeugten Strom möglichst direkt in der Kita zu nutzen und ihre laufenden Stromkosten zu senken.
 
-**Aktueller Arbeitsstand:** Technische und wirtschaftliche Varianten werden so aufbereitet, dass Leistung, Verbrauch, Eigenverbrauch und Kosten nachvollziehbar miteinander verglichen werden können.
+**Arbeitsstand:** Ein Konzept zur Beteiligung des Fördervereins und eine interne Arbeitsgrundlage sind ausgearbeitet. Vorgesehen ist, Spenden und Unterstützung örtlicher Fachbetriebe zu gewinnen. Die Ortsgemeinde soll die Anlage anschließend übernehmen und betreiben.
 
-**Einordnung:** Das Projekt befindet sich in der Konzept- und Wirtschaftlichkeitsphase. Die fachliche Vorbereitung ist damit weiter, eine Umsetzung wird dadurch aber noch nicht als beschlossen dargestellt.
+**Status:** Konzept zur Abstimmung. Finanzierung, Zuständigkeiten sowie rechtliche und steuerliche Voraussetzungen sind noch zu klären. Die Umsetzung ist noch nicht beschlossen.
 
 ---
 
@@ -65,15 +66,16 @@ Prüfung einer Photovoltaikanlage auf dem Dach der Kita in Urbar. Im Mittelpunkt
 
 <a href="https://vinofy.de/"><img src="assets/badges/badge-07.svg" alt="vinofy.de öffnen"></a>
 <a href="https://marcopusceddu.myshopify.com/"><img src="assets/badges/badge-08.svg" alt="Shopify-Account öffnen"></a>
-<img src="assets/badges/badge-09.svg" alt="Shop noch in Vorbereitung">
+
+<img src="assets/badges/status-shopify.svg" alt="Shopify-Projekt in Vorbereitung">
 
 </div>
 
-Die Unternehmenswebsite verbindet **E-Commerce- und Shopify-Beratung**, den praktischen Einsatz von KI, Strategie, eigene digitale Vorhaben und die Offenheit für zukünftige Beteiligungen.
+Unternehmenswebsite der vinofy GmbH mit den Schwerpunkten E-Commerce, Shopify-Beratung und dem praktischen Einsatz von KI. Sie stellt Leistungen, unternehmerische Erfahrung und eigene digitale Projekte vor.
 
-**Eingebunden:** Der bestehende Shopify-Account ist jetzt als eigenes Vorhaben direkt auf der vinofy-Website eingebunden. Damit wird der Shop nicht nur technisch verlinkt, sondern als konkretes digitales Projekt der nächsten Unternehmensphase sichtbar. Der Shop selbst befindet sich weiterhin in Vorbereitung.
+**Shopify-Projekt:** Ein eigener Shop ist als begleitendes Praxisprojekt in Vorbereitung. Er soll praktische Erfahrungen für die Entwicklung und Begleitung von E-Commerce-Projekten liefern.
 
-**Umsetzung:** Schlanke HTML-, CSS- und JavaScript-Website ohne Framework oder Datenbank. Der Quellcode liegt in einem privaten Repository; die öffentliche Website wird getrennt davon bereitgestellt.
+**Status:** Unternehmenswebsite veröffentlicht. Shopify-Projekt in Vorbereitung; ein öffentlicher Verkaufsstart ist noch nicht erfolgt.
 
 ---
 
@@ -126,11 +128,15 @@ Persönliche Website als zentrale öffentliche Plattform: Unternehmerprofil, kom
 
 <a href="https://dorfflohmarkt-urbar.de/"><img src="assets/badges/badge-13.svg" alt="Website öffnen"></a>
 
+<img src="assets/badges/status-dorfflohmarkt.svg" alt="2026 eingesetzt · Ausbau für 2027 geplant">
+
 </div>
 
-Interaktive und mobil nutzbare Karte, die den Dorfflohmarkt Urbar 2026 begleitet hat. Die Anwendung verband Leaflet, OpenStreetMap und GitHub Pages mit einer schlanken Datenstruktur. Nach dem Flohmarkt zeigt die Seite den Ausblick auf 2027.
+Mobile Flohmarktkarte für Urbar mit Leaflet und OpenStreetMap. Die Ausgabe 2026 umfasste zuletzt 91 Verkaufsstände an 68 Orten. Nach der Veranstaltung wurde die Website auf einen Ausblick für 2027 umgestellt.
 
-Für 2027 ist die Grundlage für eine geschützte Standverwaltung mit **Cloudflare Worker, Access und D1** vorbereitet. Berechtigte Redakteure sollen Stände dann ohne eigenen GitHub-Zugang pflegen können.
+**Weiterentwicklung:** Für die nächste Ausgabe ist eine Online-Anmeldung mit Sortimentsauswahl, optionalem Standnamen und Foto vorgesehen. Kartenpunkte sollen automatisch vorbereitet und vor der Veröffentlichung geprüft werden. Damit soll die bisherige manuelle Pflege in Excel abgelöst werden.
+
+**Arbeitsstand:** Eine Fotofunktion mit geschützter Übertragung, Prüfung und Freigabe wurde auf Cloudflare-Basis erfolgreich getestet. Der Entwicklungsstand ist gesichert; die vollständige Standanmeldung und Verwaltung für 2027 sind noch nicht umgesetzt.
 
 ---
 
@@ -145,11 +151,15 @@ Für 2027 ist die Grundlage für eine geschützte Standverwaltung mit **Cloudfla
 <a href="https://mpusceddu.github.io/vereinsring-urbar/"><img src="assets/badges/badge-17.svg" alt="Vorschau der Vereinsring-Website öffnen"></a>
 <a href="https://github.com/mpusceddu/vereinsring-urbar"><img src="assets/badges/badge-15.svg" alt="Repository ansehen"></a>
 
+<img src="assets/badges/status-vereinsring.svg" alt="Öffentliche Vorschau · Abstimmung offen">
+
 </div>
 
-Öffentliche Vorschau für einen gemeinsamen digitalen Auftritt des Vereinsrings und der Urbarer Vereine. Die Seite bündelt Vereine, Termine, gemeinsame Aktionen, Materialausleihe und die strukturierte Meldung von Veranstaltungen.
+Öffentliche Website-Vorschau für den Vereinsring und die Urbarer Vereine. Sie bündelt Vereinsinformationen, Termine und gemeinsame Aktionen. Formulare bereiten Veranstaltungsmeldungen und Materialanfragen als E-Mail vor.
 
-**Umsetzung:** responsive HTML-, CSS- und JavaScript-Website auf GitHub Pages, ohne Analyse, Cookies oder extern geladene Schriftarten. Die Inhalte werden vor einem offiziellen Start durch den Vereinsring geprüft und freigegeben.
+**Arbeitsstand:** Die Vorschau ist für Smartphone, Tablet und Desktop ausgearbeitet. Für den offiziellen Betrieb sind noch die Domain- und E-Mail-Anbindung sowie die Bestätigung der Inhalte, Kontaktdaten und Ausleihbedingungen erforderlich.
+
+**Status:** Öffentliche Vorschau zur Abstimmung. Der offizielle Start ist noch nicht bestätigt.
 
 ---
 
@@ -163,11 +173,15 @@ Für 2027 ist die Grundlage für eine geschützte Standverwaltung mit **Cloudfla
 
 <a href="https://mpusceddu.github.io/cdu-vallendar/"><img src="assets/badges/badge-17.svg" alt="Vorschau der CDU-Website öffnen"></a>
 
+<img src="assets/badges/status-cdu.svg" alt="Öffentliche Vorschau · internes Portal eingerichtet">
+
 </div>
 
-Gemeinsamer Internetauftritt der CDU in Vallendar, Niederwerth, Urbar und Weitersburg. Die Entwicklungsfassung bildet Vorstand, Fraktionen, kommunalpolitische Themen, Anträge und die unterschiedlichen Situationen in den fünf Räten nachvollziehbar ab.
+Gemeinsamer Website-Auftritt für die CDU in Vallendar, Niederwerth, Urbar und Weitersburg. Die öffentliche Vorschau bündelt Vorstand, örtliche Ansprechpartner, Fraktionsinformationen, kommunalpolitische Themen und Anträge.
 
-Eine Themenwerkstatt bietet eine Orientierung zur kommunalen Zuständigkeit und erzeugt kopierbare Textentwürfe ausschließlich im Browser. Die abschließende inhaltliche Abnahme und Freigabe stehen noch aus.
+Eine Räteübersicht unterscheidet den Verbandsgemeinderat, den Stadtrat Vallendar und die Ortsgemeinderäte Niederwerth, Urbar und Weitersburg. Ergänzend ist ein geschütztes Funktionsträgerportal mit internen Arbeitsmitteln und Gestaltungsleitfaden eingerichtet.
+
+**Status:** Öffentliche Vorschau und internes Portal sind eingerichtet. Der vollständige offizielle Website-Start ist noch nicht bestätigt; die abschließende Freigabe und die Umstellung der Kontakt- und Mailadressen stehen noch aus.
 
 ---
 
@@ -179,14 +193,16 @@ Eine Themenwerkstatt bietet eine Orientierung zur kommunalen Zuständigkeit und 
 
 <br>
 
-<a href="https://stammbaum.pusceddu.de/"><img src="assets/badges/badge-18.svg" alt="Anmeldeseite des Familienbuchs öffnen"></a>
-<img src="assets/badges/badge-19.svg" alt="Verschlüsselte Familieninhalte">
+
+<img src="assets/badges/status-familienbuch.svg" alt="Privates Familienprojekt · geschützter Zugang">
 
 </div>
 
-Digitales Familienbuch mit Lebensgeschichten, Fotos, Personensuche und einem Stammbaum über mehrere Generationen. Die sensiblen Inhalte und Bilder werden vor der Veröffentlichung verschlüsselt und erst nach Eingabe des Familienpassworts im Browser geöffnet.
+Privates digitales Familienbuch mit Lebensgeschichten, Fotos, Personensuche und einem Stammbaum über mehrere Generationen. Es verbindet Familiengeschichte mit einer übersichtlichen, digital durchsuchbaren Darstellung.
 
-Der bearbeitbare Quellcode bleibt privat. Die öffentliche Ausgabe enthält nur die Anmeldeseite, Programmdateien und verschlüsselte Daten.
+**Zugang und Datenschutz:** Das Familienbuch ist ausschließlich für freigegebene Familienmitglieder zugänglich. Eine Anmeldung per E-Mail-Code schützt den Zugang; sensible Familieninhalte und Bilder werden zusätzlich verschlüsselt und mit dem Familienpasswort im Browser geöffnet.
+
+**Status:** Geschützt bereitgestellt. Anmeldung, Zugriffsschutz und die Anzeige entschlüsselter Inhalte wurden getestet. Quellcode und Familieninhalte bleiben privat.
 
 ## Themen und Arbeitsfelder
 

@@ -1,5 +1,5 @@
 <svg font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" xmlns="http://www.w3.org/2000/svg" width="1400" height="735" viewBox="0 0 1400 735" role="img" aria-labelledby="title desc">
-  <title id="title">vinofy GmbH – Unternehmenswebsite im Neuaufbau</title>
+  <title id="title">vinofy GmbH – veröffentlichte Unternehmenswebsite und Shopify-Projekt</title>
   <desc id="desc">Projektkarte für E-Commerce-Beratung, Shopify, digitale Vorhaben und zukünftige Beteiligungen.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -18,7 +18,7 @@
   <path d="M0 594C260 510 430 650 720 570S1120 490 1400 548V735H0Z" fill="#00a6a6" fill-opacity="0.11"/>
 
   <g transform="translate(92 94)">
-    <text x="0" y="0" dominant-baseline="hanging" fill="#75e1dc" font-size="27" font-weight="700" letter-spacing="5">UNTERNEHMENSWEBSITE · ARBEITSFASSUNG</text>
+    <text x="0" y="0" dominant-baseline="hanging" fill="#75e1dc" font-size="27" font-weight="700" letter-spacing="5">UNTERNEHMENSWEBSITE · SHOPIFY-PROJEKT</text>
     <text x="0" y="135" fill="#ffffff" font-size="100" font-weight="700">vinofy GmbH</text>
     <text x="0" y="232" fill="#dcebed" font-size="37">E-Commerce, Shopify, Strategie und digitale Vorhaben.</text>
 
@@ -41,7 +41,7 @@
       </g>
     </g>
 
-    <text x="0" y="510" fill="#a9cdd1" font-size="27">Neuaufbau seit September 2026 · vinofy.de</text>
+    <text x="0" y="510" fill="#a9cdd1" font-size="27">Website veröffentlicht · Shopify-Projekt in Vorbereitung</text>
   </g>
 
   <g transform="translate(1120 500) scale(.8)" filter="url(#shadow)">

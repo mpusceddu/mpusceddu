@@ -1,6 +1,6 @@
 <svg font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720" role="img" aria-labelledby="title desc">
   <title id="title">Dorfflohmarkt Urbar 2026</title>
-  <desc id="desc">Projektbanner mit einer stilisierten Karte und nummerierten Flohmarktständen.</desc>
+  <desc id="desc">Projektbanner zur Flohmarktkarte Urbar 2026 mit zuletzt 91 Ständen an 68 Orten.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#193d2e"/>
@@ -18,7 +18,7 @@
     <text x="0" y="0" dominant-baseline="hanging" fill="#cfe5d8" font-size="24" font-weight="700" letter-spacing="3">DIGITALES BÜRGERPROJEKT</text>
     <text x="0" y="100" fill="#ffffff" font-size="76" font-weight="700">Dorfflohmarkt</text>
     <text x="0" y="184" fill="#ffffff" font-size="76" font-weight="700">Urbar 2026</text>
-    <text x="0" y="270" fill="#e8f2ec" font-size="31">Interaktive Karte für bis zu 82 Stände</text>
+    <text x="0" y="270" fill="#e8f2ec" font-size="31">2026: 91 Stände an 68 Orten</text>
 
     <g transform="translate(0 350)">
       <rect width="438" height="76" rx="20" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.24"/>

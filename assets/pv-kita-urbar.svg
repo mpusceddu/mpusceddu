@@ -1,6 +1,6 @@
 <svg font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" xmlns="http://www.w3.org/2000/svg" width="1400" height="735" viewBox="0 0 1400 735" role="img" aria-labelledby="title desc">
   <title id="title">PV Kita Urbar</title>
-  <desc id="desc">Projektkarte zur Prüfung einer wirtschaftlichen Photovoltaikanlage auf dem Dach der Kita in Urbar.</desc>
+  <desc id="desc">Projektkarte für das PV-Konzept der Kita in Urbar. Konzept zur Abstimmung; die Umsetzung ist noch nicht beschlossen.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#071f33"/>
@@ -41,7 +41,7 @@
       </g>
     </g>
 
-    <text x="0" y="510" fill="#a9cdd1" font-size="27">Von der Idee zur entscheidungsfähigen Grundlage.</text>
+    <text x="0" y="510" fill="#a9cdd1" font-size="27">Konzept zur Abstimmung · Umsetzung noch nicht beschlossen</text>
   </g>
 
   <g transform="translate(988 286)" filter="url(#shadow)">

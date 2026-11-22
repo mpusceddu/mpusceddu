@@ -151,6 +151,12 @@ Für 2027 ist die Grundlage für eine geschützte Standverwaltung mit **Cloudfla
 
 ---
 
+### St. Sebastianus Schützengesellschaft Urbar
+
+Entwurf für einen neuen Internetauftritt der Schützengesellschaft, in der ich Mitglied bin. Vier Gestaltungsrichtungen von traditionell bis sportlich, aufgebaut auf den Inhalten der bestehenden Vereinsseite. Der Entwurf ist noch nicht öffentlich. Inhalte, Fotos sowie Impressum und Datenschutz müssen zuerst vom Vorstand geprüft und freigegeben werden.
+
+---
+
 ### CDU Verbandsgemeinde Vallendar
 
 <div align="center">
@@ -198,7 +204,7 @@ Photovoltaik · Eigenverbrauch · Wirtschaftlichkeitsvergleich · Investitionsra
 Digitale Bürgerinformation · kommunale Infrastruktur · Energie und Glasfaser · transparente Kommunikation
 
 **Vereine und Ehrenamt**  
-Gemeinsame Öffentlichkeitsarbeit · Veranstaltungskalender · digitale Zusammenarbeit · Sichtbarkeit des Vereinslebens
+Schützenverein Urbar · Gemeinsame Öffentlichkeitsarbeit · Veranstaltungskalender · digitale Zusammenarbeit · Sichtbarkeit des Vereinslebens
 
 **Publikation und digitale Kommunikation**  
 Statische Websites · Beitragsarchive · automatisierte Übersichten · Metadatenprüfung · Suchmaschinen-Vorbereitung · HTML-Signaturen · Apple Mail

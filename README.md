@@ -71,7 +71,7 @@ Prüfung einer Photovoltaikanlage auf dem Dach der Kita in Urbar. Im Mittelpunkt
 
 Die Unternehmenswebsite verbindet **E-Commerce- und Shopify-Beratung**, den praktischen Einsatz von KI, Strategie, eigene digitale Vorhaben und die Offenheit für zukünftige Beteiligungen.
 
-**Neu ergänzt:** Der bestehende Shopify-Account ist jetzt als eigenes Vorhaben direkt auf der vinofy-Website eingebunden. Damit wird der Shop nicht nur technisch verlinkt, sondern als konkretes digitales Projekt der nächsten Unternehmensphase sichtbar. Der Shop selbst befindet sich weiterhin in Vorbereitung.
+**Eingebunden:** Der bestehende Shopify-Account ist jetzt als eigenes Vorhaben direkt auf der vinofy-Website eingebunden. Damit wird der Shop nicht nur technisch verlinkt, sondern als konkretes digitales Projekt der nächsten Unternehmensphase sichtbar. Der Shop selbst befindet sich weiterhin in Vorbereitung.
 
 **Umsetzung:** Schlanke HTML-, CSS- und JavaScript-Website ohne Framework oder Datenbank. Der Quellcode liegt in einem privaten Repository; die öffentliche Website wird getrennt davon bereitgestellt.
 
@@ -93,6 +93,8 @@ Einheitliche E-Mail-Signaturen für drei unterschiedliche Kommunikationsbereiche
 
 **Status:** Die drei Signaturen sind fertiggestellt und auf Mac und iPhone im praktischen Einsatz.
 
+---
+
 ### marcopusceddu.de
 
 <div align="center">
@@ -108,7 +110,7 @@ Einheitliche E-Mail-Signaturen für drei unterschiedliche Kommunikationsbereiche
 
 Persönliche Website als zentrale öffentliche Plattform: Unternehmerprofil, kommunalpolitisches Engagement, direkte Kontaktmöglichkeiten sowie ein vollständiger Bereich für Berichte, Einblicke und persönliche Positionen.
 
-**Aktueller Stand:** MP-Marke und dunkelblaue-türkise Gestaltung, vollständiges Beitragsarchiv, Social-Media-Vorschaubild, Suchmaschinen-Vorbereitung und direkte Verweise zu den kommunalpolitischen Themen- und Fraktionsseiten.
+**Auf der Website:** Mein berufliches und kommunalpolitisches Profil, eigene Beiträge und Positionen sowie die kommunalpolitischen Themen- und Fraktionsseiten.
 
 **Redaktioneller Ablauf:** Die Website bleibt statisch und schnell. Ein Python-Skript erzeugt aus den freigegebenen Artikeln automatisch Startseitenvorschau, Archiv und Sitemap. Prüfungen verhindern fehlerhafte Metadaten, falsche Adressen und zukünftige Veröffentlichungsdaten.
 
@@ -198,7 +200,7 @@ Photovoltaik · Eigenverbrauch · Wirtschaftlichkeitsvergleich · Investitionsra
 Digitale Bürgerinformation · kommunale Infrastruktur · Energie und Glasfaser · transparente Kommunikation
 
 **Vereine und Ehrenamt**  
-Gemeinsame Öffentlichkeitsarbeit · Veranstaltungskalender · digitale Zusammenarbeit · Sichtbarkeit des Vereinslebens
+St. Sebastianus Schützengesellschaft Urbar · Gemeinsame Öffentlichkeitsarbeit · Veranstaltungskalender · digitale Zusammenarbeit · Sichtbarkeit des Vereinslebens
 
 **Publikation und digitale Kommunikation**  
 Statische Websites · Beitragsarchive · automatisierte Übersichten · Metadatenprüfung · Suchmaschinen-Vorbereitung · HTML-Signaturen · Apple Mail

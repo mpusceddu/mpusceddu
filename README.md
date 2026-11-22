@@ -2,10 +2,6 @@
 
 <img src="https://marcopusceddu.de/assets/images/github-profile-banner.svg" alt="Marco Pusceddu – Unternehmer, Kommunalpolitik und digitale Projekte" width="100%">
 
-<br>
-
-<strong>Unternehmer · Kommunalpolitiker · digitale Projekte, Energie und eigene Beiträge</strong>
-
 <br><br>
 
 <a href="https://vinofy.de/"><img src="assets/badges/badge-01.svg" alt="Geschäftsführer der vinofy GmbH"></a>
@@ -17,11 +13,7 @@
 
 ## Profil
 
-Ich bin Geschäftsführer der [**vinofy GmbH**](https://vinofy.de/) und kommunalpolitisch in **Urbar** sowie in der **Verbandsgemeinde Vallendar** aktiv.
-
-GitHub nutze ich als öffentliche Werkbank für Websites, Bürger- und Energieprojekte sowie nachvollziehbare digitale Arbeitsabläufe. Entscheidend ist nicht die technische Spielerei, sondern ob eine Lösung verständlich ist, ein konkretes Problem löst und dauerhaft gepflegt werden kann.
-
-Meine persönliche Website [**marcopusceddu.de**](https://marcopusceddu.de/) ist die zentrale Plattform für mein berufliches Profil, mein kommunalpolitisches Engagement, konkrete Projekte sowie eigene Berichte und Positionen.
+Ich bin Geschäftsführer der vinofy GmbH und kommunalpolitisch in Urbar und der Verbandsgemeinde Vallendar aktiv. Hier dokumentiere ich Websites, Bürgerprojekte und digitale Werkzeuge mit ihrem jeweiligen Arbeitsstand.
 
 ### Arbeitsweise
 
@@ -81,19 +73,7 @@ Unternehmenswebsite der vinofy GmbH mit den Schwerpunkten E-Commerce, Shopify-Be
 
 ### E-Mail-Signaturen für Apple Mail
 
-<div align="center">
-
-<img src="assets/badges/badge-10.svg" alt="Apple Mail auf Mac und iPhone">
-<img src="assets/badges/badge-11.svg" alt="Varianten für vinofy, CDU und privat">
-<img src="assets/badges/badge-12.svg" alt="Signaturen eingerichtet">
-
-</div>
-
-Einheitliche E-Mail-Signaturen für drei unterschiedliche Kommunikationsbereiche: **vinofy**, **CDU** und **privat**. Die Varianten sind für **Apple Mail auf dem Mac** fertiggestellt und zusätzlich auf dem **iPhone** eingerichtet.
-
-**Ziel:** ein konsistenter Absenderauftritt über beide Geräte hinweg – mit klarer Trennung zwischen geschäftlicher, kommunalpolitischer und privater Kommunikation.
-
-**Status:** Die drei Signaturen sind fertiggestellt und auf Mac und iPhone im praktischen Einsatz.
+Drei abgestimmte HTML-Signaturen für vinofy, CDU und private Korrespondenz. In Apple Mail auf dem Mac und auf dem iPhone eingerichtet und im Einsatz.
 
 ---
 
@@ -110,11 +90,9 @@ Einheitliche E-Mail-Signaturen für drei unterschiedliche Kommunikationsbereiche
 
 </div>
 
-Persönliche Website als zentrale öffentliche Plattform: Unternehmerprofil, kommunalpolitisches Engagement, direkte Kontaktmöglichkeiten sowie ein vollständiger Bereich für Berichte, Einblicke und persönliche Positionen.
+Meine persönliche Website bündelt berufliches Profil, kommunalpolitisches Engagement, Beiträge, Positionen und Fraktionsseiten.
 
-**Auf der Website:** Mein berufliches und kommunalpolitisches Profil, eigene Beiträge und Positionen sowie die kommunalpolitischen Themen- und Fraktionsseiten.
-
-**Redaktioneller Ablauf:** Die Website bleibt statisch und schnell. Ein Python-Skript erzeugt aus den freigegebenen Artikeln automatisch Startseitenvorschau, Archiv und Sitemap. Prüfungen verhindern fehlerhafte Metadaten, falsche Adressen und zukünftige Veröffentlichungsdaten.
+**Redaktioneller Ablauf:** Freigegebene Beiträge werden automatisiert in Startseite, Archiv und Sitemap übernommen.
 
 ## Weitere Projekte
 

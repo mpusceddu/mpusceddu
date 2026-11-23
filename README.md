@@ -30,7 +30,7 @@ Ich bin Geschäftsführer der vinofy GmbH und kommunalpolitisch in Urbar und der
 
 <div align="center">
 
-<a href="https://marcopusceddu.de/"><img src="https://marcopusceddu.de/assets/images/github-website-card-rounded.png" alt="Vorschau der persönlichen Website von Marco Pusceddu" width="100%"></a>
+<a href="https://marcopusceddu.de/"><img src="assets/marcopusceddu-website.png" alt="Vorschau der persönlichen Website von Marco Pusceddu" width="100%"></a>
 
 <br>
 
@@ -183,6 +183,24 @@ Mobile Flohmarktkarte für Urbar mit Leaflet und OpenStreetMap. Die Ausgabe 2026
 **Arbeitsstand:** Die Vorschau ist für Smartphone, Tablet und Desktop ausgearbeitet. Für den offiziellen Betrieb sind noch die Domain- und E-Mail-Anbindung sowie die Bestätigung der Inhalte, Kontaktdaten und Ausleihbedingungen erforderlich.
 
 **Status:** Öffentliche Vorschau zur Abstimmung. Der offizielle Start ist noch nicht bestätigt.
+
+---
+
+### St. Sebastianus Schützengesellschaft Urbar
+
+<div align="center">
+
+<img src="assets/schuetzengesellschaft-urbar.svg" alt="Websiteentwurf für die St. Sebastianus Schützengesellschaft Urbar, Vorstandsfreigabe offen" width="100%">
+
+<br>
+
+<img src="assets/status-schuetzen.svg" alt="Entwurf · Vorstandsfreigabe offen">
+
+</div>
+
+Websiteentwurf für die Schützengesellschaft, in der ich Mitglied bin. Ziel ist ein übersichtlicher Auftritt für Vereinsleben, Tradition und sportliche Aktivitäten.
+
+**Status:** Entwurf zur Abstimmung mit dem Vorstand. Eine Freigabe für den offiziellen Vereinsauftritt liegt noch nicht vor.
 
 ## Themen und Arbeitsfelder
 

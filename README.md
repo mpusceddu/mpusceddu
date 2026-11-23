@@ -24,27 +24,24 @@ Ich bin Geschäftsführer der vinofy GmbH und kommunalpolitisch in Urbar und der
 - wirtschaftlich und praktisch geprüft
 - für den tatsächlichen Einsatz gebaut
 
-## Aktuell im Fokus
+## Ausgewählte Projekte
 
-### PV Kita Urbar
+### marcopusceddu.de
 
 <div align="center">
 
-<img src="assets/pv-kita-urbar.svg" alt="PV Kita Urbar – kommunales Energieprojekt" width="100%">
+<a href="https://marcopusceddu.de/"><img src="https://marcopusceddu.de/assets/images/github-website-card-rounded.png" alt="Vorschau der persönlichen Website von Marco Pusceddu" width="100%"></a>
 
 <br>
 
-<img src="assets/badges/badge-06.svg" alt="Fokus: Eigenverbrauch und Kosten">
-
-<img src="assets/badges/status-pv-kita.svg" alt="Konzept zur Abstimmung">
+<a href="https://marcopusceddu.de/"><img src="assets/badges/badge-13.svg" alt="Website öffnen"></a>
+<a href="https://marcopusceddu.de/aktuelles/"><img src="assets/badges/badge-14.svg" alt="Beiträge ansehen"></a>
 
 </div>
 
-Konzept für eine Photovoltaikanlage auf dem Dach der Kita „Unter dem Regenbogen“ in Urbar. Ziel ist, den erzeugten Strom möglichst direkt in der Kita zu nutzen und ihre laufenden Stromkosten zu senken.
+Meine persönliche Website bündelt berufliches Profil, kommunalpolitisches Engagement, Beiträge, Positionen und Fraktionsseiten.
 
-**Arbeitsstand:** Ein Konzept zur Beteiligung des Fördervereins und eine interne Arbeitsgrundlage sind ausgearbeitet. Vorgesehen ist, Spenden und Unterstützung örtlicher Fachbetriebe zu gewinnen. Die Ortsgemeinde soll die Anlage anschließend übernehmen und betreiben.
-
-**Status:** Konzept zur Abstimmung. Finanzierung, Zuständigkeiten sowie rechtliche und steuerliche Voraussetzungen sind noch zu klären. Die Umsetzung ist noch nicht beschlossen.
+**Redaktioneller Ablauf:** Freigegebene Beiträge werden automatisiert in Startseite, Archiv und Sitemap übernommen.
 
 ---
 
@@ -71,30 +68,78 @@ Unternehmenswebsite der vinofy GmbH mit den Schwerpunkten E-Commerce, Shopify-Be
 
 ---
 
+### CDU Verbandsgemeinde Vallendar
+
+<div align="center">
+
+<a href="https://mpusceddu.github.io/cdu-vallendar/"><img src="assets/cdu-vallendar.svg" alt="CDU Verbandsgemeinde Vallendar – vier Orte, eine gemeinsame Stimme" width="100%"></a>
+
+<br>
+
+<a href="https://mpusceddu.github.io/cdu-vallendar/"><img src="assets/badges/badge-17.svg" alt="Vorschau der CDU-Website öffnen"></a>
+
+<img src="assets/badges/status-cdu.svg" alt="Öffentliche Vorschau · internes Portal eingerichtet">
+
+</div>
+
+Gemeinsamer Website-Auftritt für die CDU in Vallendar, Niederwerth, Urbar und Weitersburg. Die öffentliche Vorschau bündelt Vorstand, örtliche Ansprechpartner, Fraktionsinformationen, kommunalpolitische Themen und Anträge.
+
+Eine Räteübersicht unterscheidet den Verbandsgemeinderat, den Stadtrat Vallendar und die Ortsgemeinderäte Niederwerth, Urbar und Weitersburg. Ergänzend ist ein geschütztes Funktionsträgerportal mit internen Arbeitsmitteln und Gestaltungsleitfaden eingerichtet.
+
+**Status:** Öffentliche Vorschau und internes Portal sind eingerichtet. Der vollständige offizielle Website-Start ist noch nicht bestätigt; die abschließende Freigabe und die Umstellung der Kontakt- und Mailadressen stehen noch aus.
+
+## Weitere Projekte
+
 ### E-Mail-Signaturen für Apple Mail
 
 Drei abgestimmte HTML-Signaturen für vinofy, CDU und private Korrespondenz. In Apple Mail auf dem Mac und auf dem iPhone eingerichtet und im Einsatz.
 
 ---
 
-### marcopusceddu.de
+### Unser Familienbuch
 
 <div align="center">
 
-<a href="https://marcopusceddu.de/"><img src="https://marcopusceddu.de/assets/images/github-website-card-rounded.png" alt="Vorschau der persönlichen Website von Marco Pusceddu" width="100%"></a>
+<img src="assets/familienbuch.svg" alt="Unser Familienbuch – Geschichten bewahren und Generationen verbinden" width="100%">
 
 <br>
 
-<a href="https://marcopusceddu.de/"><img src="assets/badges/badge-13.svg" alt="Website öffnen"></a>
-<a href="https://marcopusceddu.de/aktuelles/"><img src="assets/badges/badge-14.svg" alt="Beiträge ansehen"></a>
+
+<img src="assets/badges/status-familienbuch.svg" alt="Privates Familienprojekt · geschützter Zugang">
 
 </div>
 
-Meine persönliche Website bündelt berufliches Profil, kommunalpolitisches Engagement, Beiträge, Positionen und Fraktionsseiten.
+Privates digitales Familienbuch mit Lebensgeschichten, Fotos, Personensuche und einem Stammbaum über mehrere Generationen. Es verbindet Familiengeschichte mit einer übersichtlichen, digital durchsuchbaren Darstellung.
 
-**Redaktioneller Ablauf:** Freigegebene Beiträge werden automatisiert in Startseite, Archiv und Sitemap übernommen.
+**Zugang und Datenschutz:** Das Familienbuch ist ausschließlich für freigegebene Familienmitglieder zugänglich. Eine Anmeldung per E-Mail-Code schützt den Zugang; sensible Familieninhalte und Bilder werden zusätzlich verschlüsselt und mit dem Familienpasswort im Browser geöffnet.
 
-## Weitere Projekte
+**Status:** Geschützt bereitgestellt. Anmeldung, Zugriffsschutz und die Anzeige entschlüsselter Inhalte wurden getestet. Quellcode und Familieninhalte bleiben privat.
+
+## Digital fürs Dorf
+
+Ehrenamtliche Projekte für Urbar und das örtliche Vereinsleben. Ich entwickle Websites, digitale Hilfen und Konzepte, die vor Ort etwas bewegen sollen. Was bereits im Einsatz ist und was noch abgestimmt werden muss, ist bei jedem Projekt klar benannt.
+
+### PV Kita Urbar
+
+<div align="center">
+
+<img src="assets/pv-kita-urbar.svg" alt="PV Kita Urbar – kommunales Energieprojekt" width="100%">
+
+<br>
+
+<img src="assets/badges/badge-06.svg" alt="Fokus: Eigenverbrauch und Kosten">
+
+<img src="assets/badges/status-pv-kita.svg" alt="Konzept zur Abstimmung">
+
+</div>
+
+Konzept für eine Photovoltaikanlage auf dem Dach der Kita „Unter dem Regenbogen“ in Urbar. Ziel ist, den erzeugten Strom möglichst direkt in der Kita zu nutzen und ihre laufenden Stromkosten zu senken.
+
+**Arbeitsstand:** Ein Konzept zur Beteiligung des Fördervereins und eine interne Arbeitsgrundlage sind ausgearbeitet. Vorgesehen ist, Spenden und Unterstützung örtlicher Fachbetriebe zu gewinnen. Die Ortsgemeinde soll die Anlage anschließend übernehmen und betreiben.
+
+**Status:** Konzept zur Abstimmung. Finanzierung, Zuständigkeiten sowie rechtliche und steuerliche Voraussetzungen sind noch zu klären. Die Umsetzung ist noch nicht beschlossen.
+
+---
 
 ### Dorfflohmarkt Urbar
 
@@ -138,49 +183,6 @@ Mobile Flohmarktkarte für Urbar mit Leaflet und OpenStreetMap. Die Ausgabe 2026
 **Arbeitsstand:** Die Vorschau ist für Smartphone, Tablet und Desktop ausgearbeitet. Für den offiziellen Betrieb sind noch die Domain- und E-Mail-Anbindung sowie die Bestätigung der Inhalte, Kontaktdaten und Ausleihbedingungen erforderlich.
 
 **Status:** Öffentliche Vorschau zur Abstimmung. Der offizielle Start ist noch nicht bestätigt.
-
----
-
-### CDU Verbandsgemeinde Vallendar
-
-<div align="center">
-
-<a href="https://mpusceddu.github.io/cdu-vallendar/"><img src="assets/cdu-vallendar.svg" alt="CDU Verbandsgemeinde Vallendar – vier Orte, eine gemeinsame Stimme" width="100%"></a>
-
-<br>
-
-<a href="https://mpusceddu.github.io/cdu-vallendar/"><img src="assets/badges/badge-17.svg" alt="Vorschau der CDU-Website öffnen"></a>
-
-<img src="assets/badges/status-cdu.svg" alt="Öffentliche Vorschau · internes Portal eingerichtet">
-
-</div>
-
-Gemeinsamer Website-Auftritt für die CDU in Vallendar, Niederwerth, Urbar und Weitersburg. Die öffentliche Vorschau bündelt Vorstand, örtliche Ansprechpartner, Fraktionsinformationen, kommunalpolitische Themen und Anträge.
-
-Eine Räteübersicht unterscheidet den Verbandsgemeinderat, den Stadtrat Vallendar und die Ortsgemeinderäte Niederwerth, Urbar und Weitersburg. Ergänzend ist ein geschütztes Funktionsträgerportal mit internen Arbeitsmitteln und Gestaltungsleitfaden eingerichtet.
-
-**Status:** Öffentliche Vorschau und internes Portal sind eingerichtet. Der vollständige offizielle Website-Start ist noch nicht bestätigt; die abschließende Freigabe und die Umstellung der Kontakt- und Mailadressen stehen noch aus.
-
----
-
-### Unser Familienbuch
-
-<div align="center">
-
-<img src="assets/familienbuch.svg" alt="Unser Familienbuch – Geschichten bewahren und Generationen verbinden" width="100%">
-
-<br>
-
-
-<img src="assets/badges/status-familienbuch.svg" alt="Privates Familienprojekt · geschützter Zugang">
-
-</div>
-
-Privates digitales Familienbuch mit Lebensgeschichten, Fotos, Personensuche und einem Stammbaum über mehrere Generationen. Es verbindet Familiengeschichte mit einer übersichtlichen, digital durchsuchbaren Darstellung.
-
-**Zugang und Datenschutz:** Das Familienbuch ist ausschließlich für freigegebene Familienmitglieder zugänglich. Eine Anmeldung per E-Mail-Code schützt den Zugang; sensible Familieninhalte und Bilder werden zusätzlich verschlüsselt und mit dem Familienpasswort im Browser geöffnet.
-
-**Status:** Geschützt bereitgestellt. Anmeldung, Zugriffsschutz und die Anzeige entschlüsselter Inhalte wurden getestet. Quellcode und Familieninhalte bleiben privat.
 
 ## Themen und Arbeitsfelder
 
